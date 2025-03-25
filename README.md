@@ -13,4 +13,7 @@ https://ai-plant-disease-detection-rbrsnavzskhscufjd6pqw3.streamlit.app/
  *Technologies Used: Python,TensorFlow,Keras,GoogleColab,Kaggle
  Dataset, andStreamlit for developmentanddeployment.
 
+ 
 
+
+![AI plant disease system](https://github.com/user-attachments/assets/e7f0f207-560c-4d57-9bba-40e6e0fbf45d)
